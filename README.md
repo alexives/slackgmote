@@ -10,3 +10,18 @@ better way (like as a gem or something) and open a merge request. Or not. Whatev
 ## Usage
 
 `slackgmote path/to/gif.gif [WidthxHeight+offset+offset]`
+
+## Installation
+
+On OS X:
+
+```
+brew install alexives/slackgmote/slackgmote
+```
+
+Anywhere Else (with bash):
+
+```
+wget https://github.com/alexives/slackgmote/releases/download/v1.1/slackgmote
+mv slackgmote /usr/local/bin/slackgmote
+```
